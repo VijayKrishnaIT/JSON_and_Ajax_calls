@@ -56,6 +56,10 @@ axios
 
 # jQuery CDN
 
+Add jQuery CDN in the header section
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-## multiple Ajax calls
+## Multiple Ajax calls
+
+2 API \$.ajax({})
